@@ -1,0 +1,2 @@
+/Users/crudo/Projects/notas/notas/obj/x86/Debug/notas.csprojAssemblyReference.cache
+/Users/crudo/Projects/notas/notas/obj/x86/Debug/notas.csproj.CoreCompileInputs.cache

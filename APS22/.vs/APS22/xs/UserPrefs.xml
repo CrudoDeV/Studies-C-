@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{40EE4237-D39A-4CA9-94DA-7FDA9F323EEB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APS22/Program.cs">
+    <Files>
+      <File FileName="APS22/Program.cs" Line="35" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.APS22 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

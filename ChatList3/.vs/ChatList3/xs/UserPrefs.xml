@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2E6DFB3C-3FD6-4CB5-804C-81931D8EDAE6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChatList3/AppDelegate.cs">
+    <Files>
+      <File FileName="ChatList3/AppDelegate.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChatList3 PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

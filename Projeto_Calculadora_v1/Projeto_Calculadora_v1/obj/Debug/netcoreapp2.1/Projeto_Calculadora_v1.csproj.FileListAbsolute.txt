@@ -1,0 +1,4 @@
+/Users/crudo/Projects/Projeto_Calculadora_v1/Projeto_Calculadora_v1/obj/Debug/netcoreapp2.1/Projeto_Calculadora_v1.csprojAssemblyReference.cache
+/Users/crudo/Projects/Projeto_Calculadora_v1/Projeto_Calculadora_v1/obj/Debug/netcoreapp2.1/Projeto_Calculadora_v1.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Projeto_Calculadora_v1/Projeto_Calculadora_v1/obj/Debug/netcoreapp2.1/Projeto_Calculadora_v1.AssemblyInfoInputs.cache
+/Users/crudo/Projects/Projeto_Calculadora_v1/Projeto_Calculadora_v1/obj/Debug/netcoreapp2.1/Projeto_Calculadora_v1.AssemblyInfo.cs

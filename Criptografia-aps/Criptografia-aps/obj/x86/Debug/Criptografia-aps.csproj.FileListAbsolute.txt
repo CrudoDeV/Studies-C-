@@ -1,0 +1,6 @@
+/Users/crudo/Projects/Criptografia-aps/Criptografia-aps/obj/x86/Debug/Criptografia-aps.csprojAssemblyReference.cache
+/Users/crudo/Projects/Criptografia-aps/Criptografia-aps/obj/x86/Debug/Criptografia-aps.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Criptografia-aps/Criptografia-aps/bin/Debug/Criptografia-aps.exe
+/Users/crudo/Projects/Criptografia-aps/Criptografia-aps/bin/Debug/Criptografia-aps.pdb
+/Users/crudo/Projects/Criptografia-aps/Criptografia-aps/obj/x86/Debug/Criptografia-aps.exe
+/Users/crudo/Projects/Criptografia-aps/Criptografia-aps/obj/x86/Debug/Criptografia-aps.pdb

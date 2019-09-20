@@ -1,0 +1,11 @@
+/Users/crudo/Projects/Projeto_Calculadora_v3/Projeto_Calculadora_v3/obj/Debug/netcoreapp2.1/Projeto_Calculadora_v3.csprojAssemblyReference.cache
+/Users/crudo/Projects/Projeto_Calculadora_v3/Projeto_Calculadora_v3/obj/Debug/netcoreapp2.1/Projeto_Calculadora_v3.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Projeto_Calculadora_v3/Projeto_Calculadora_v3/obj/Debug/netcoreapp2.1/Projeto_Calculadora_v3.AssemblyInfoInputs.cache
+/Users/crudo/Projects/Projeto_Calculadora_v3/Projeto_Calculadora_v3/obj/Debug/netcoreapp2.1/Projeto_Calculadora_v3.AssemblyInfo.cs
+/Users/crudo/Projects/Projeto_Calculadora_v3/Projeto_Calculadora_v3/bin/Debug/netcoreapp2.1/Projeto_Calculadora_v3.deps.json
+/Users/crudo/Projects/Projeto_Calculadora_v3/Projeto_Calculadora_v3/bin/Debug/netcoreapp2.1/Projeto_Calculadora_v3.runtimeconfig.json
+/Users/crudo/Projects/Projeto_Calculadora_v3/Projeto_Calculadora_v3/bin/Debug/netcoreapp2.1/Projeto_Calculadora_v3.runtimeconfig.dev.json
+/Users/crudo/Projects/Projeto_Calculadora_v3/Projeto_Calculadora_v3/bin/Debug/netcoreapp2.1/Projeto_Calculadora_v3.dll
+/Users/crudo/Projects/Projeto_Calculadora_v3/Projeto_Calculadora_v3/bin/Debug/netcoreapp2.1/Projeto_Calculadora_v3.pdb
+/Users/crudo/Projects/Projeto_Calculadora_v3/Projeto_Calculadora_v3/obj/Debug/netcoreapp2.1/Projeto_Calculadora_v3.dll
+/Users/crudo/Projects/Projeto_Calculadora_v3/Projeto_Calculadora_v3/obj/Debug/netcoreapp2.1/Projeto_Calculadora_v3.pdb

@@ -1,0 +1,4 @@
+/Users/crudo/Projects/Fatorial/Fatorial/bin/Release/Fatorial.exe
+/Users/crudo/Projects/Fatorial/Fatorial/obj/x86/Release/Fatorial.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Fatorial/Fatorial/obj/x86/Release/Fatorial.exe
+/Users/crudo/Projects/Fatorial/Fatorial/obj/x86/Release/Fatorial.csprojAssemblyReference.cache

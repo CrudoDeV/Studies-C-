@@ -1,0 +1,6 @@
+/Users/crudo/Projects/Notas_unip/Notas_unip/bin/Debug/Notas_unip.exe
+/Users/crudo/Projects/Notas_unip/Notas_unip/bin/Debug/Notas_unip.pdb
+/Users/crudo/Projects/Notas_unip/Notas_unip/obj/x86/Debug/Notas_unip.csprojAssemblyReference.cache
+/Users/crudo/Projects/Notas_unip/Notas_unip/obj/x86/Debug/Notas_unip.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Notas_unip/Notas_unip/obj/x86/Debug/Notas_unip.exe
+/Users/crudo/Projects/Notas_unip/Notas_unip/obj/x86/Debug/Notas_unip.pdb

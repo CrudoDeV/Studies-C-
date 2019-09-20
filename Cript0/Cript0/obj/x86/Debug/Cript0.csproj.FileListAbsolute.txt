@@ -1,0 +1,2 @@
+/Users/crudo/Projects/Cript0/Cript0/obj/x86/Debug/Cript0.csprojAssemblyReference.cache
+/Users/crudo/Projects/Cript0/Cript0/obj/x86/Debug/Cript0.csproj.CoreCompileInputs.cache

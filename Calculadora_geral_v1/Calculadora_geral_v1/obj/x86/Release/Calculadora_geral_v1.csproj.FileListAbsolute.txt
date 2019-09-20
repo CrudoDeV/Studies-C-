@@ -1,0 +1,3 @@
+/Users/crudo/Projects/Calculadora_geral_v1/Calculadora_geral_v1/obj/x86/Release/Calculadora_geral_v1.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Calculadora_geral_v1/Calculadora_geral_v1/bin/Release/Calculadora_geral_v1.exe
+/Users/crudo/Projects/Calculadora_geral_v1/Calculadora_geral_v1/obj/x86/Release/Calculadora_geral_v1.exe

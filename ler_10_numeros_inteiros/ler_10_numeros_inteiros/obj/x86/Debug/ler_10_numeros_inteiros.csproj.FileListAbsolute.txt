@@ -1,0 +1,6 @@
+/Users/crudo/Projects/ler_10_numeros_inteiros/ler_10_numeros_inteiros/bin/Debug/ler_10_numeros_inteiros.exe
+/Users/crudo/Projects/ler_10_numeros_inteiros/ler_10_numeros_inteiros/bin/Debug/ler_10_numeros_inteiros.pdb
+/Users/crudo/Projects/ler_10_numeros_inteiros/ler_10_numeros_inteiros/obj/x86/Debug/ler_10_numeros_inteiros.csprojAssemblyReference.cache
+/Users/crudo/Projects/ler_10_numeros_inteiros/ler_10_numeros_inteiros/obj/x86/Debug/ler_10_numeros_inteiros.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/ler_10_numeros_inteiros/ler_10_numeros_inteiros/obj/x86/Debug/ler_10_numeros_inteiros.exe
+/Users/crudo/Projects/ler_10_numeros_inteiros/ler_10_numeros_inteiros/obj/x86/Debug/ler_10_numeros_inteiros.pdb

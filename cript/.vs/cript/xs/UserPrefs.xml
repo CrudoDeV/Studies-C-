@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4701C8E2-897D-42F4-94F9-1B05C86C7323}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cript/Program.cs">
+    <Files>
+      <File FileName="cript/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.cript PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/crudo/Projects/Conversor_de_moedas/Conversor_de_moedas/bin/Debug/Conversor_de_moedas.exe
+/Users/crudo/Projects/Conversor_de_moedas/Conversor_de_moedas/bin/Debug/Conversor_de_moedas.pdb
+/Users/crudo/Projects/Conversor_de_moedas/Conversor_de_moedas/obj/x86/Debug/Conversor_de_moedas.csprojResolveAssemblyReference.cache
+/Users/crudo/Projects/Conversor_de_moedas/Conversor_de_moedas/obj/x86/Debug/Conversor_de_moedas.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Conversor_de_moedas/Conversor_de_moedas/obj/x86/Debug/Conversor_de_moedas.exe
+/Users/crudo/Projects/Conversor_de_moedas/Conversor_de_moedas/obj/x86/Debug/Conversor_de_moedas.pdb

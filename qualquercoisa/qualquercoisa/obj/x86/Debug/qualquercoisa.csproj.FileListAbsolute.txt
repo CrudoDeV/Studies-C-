@@ -1,0 +1,2 @@
+/Users/crudo/Projects/qualquercoisa/qualquercoisa/obj/x86/Debug/qualquercoisa.csprojAssemblyReference.cache
+/Users/crudo/Projects/qualquercoisa/qualquercoisa/obj/x86/Debug/qualquercoisa.csproj.CoreCompileInputs.cache

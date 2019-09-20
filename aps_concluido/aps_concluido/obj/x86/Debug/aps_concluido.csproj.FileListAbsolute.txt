@@ -1,0 +1,6 @@
+/Users/crudo/Projects/aps_concluido/aps_concluido/bin/Debug/aps_concluido.exe
+/Users/crudo/Projects/aps_concluido/aps_concluido/bin/Debug/aps_concluido.pdb
+/Users/crudo/Projects/aps_concluido/aps_concluido/obj/x86/Debug/aps_concluido.csprojAssemblyReference.cache
+/Users/crudo/Projects/aps_concluido/aps_concluido/obj/x86/Debug/aps_concluido.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/aps_concluido/aps_concluido/obj/x86/Debug/aps_concluido.exe
+/Users/crudo/Projects/aps_concluido/aps_concluido/obj/x86/Debug/aps_concluido.pdb

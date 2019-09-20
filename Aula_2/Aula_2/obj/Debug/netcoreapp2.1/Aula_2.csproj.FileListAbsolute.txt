@@ -1,0 +1,11 @@
+/Users/crudo/Projects/Aula_2/Aula_2/bin/Debug/netcoreapp2.1/Aula_2.deps.json
+/Users/crudo/Projects/Aula_2/Aula_2/bin/Debug/netcoreapp2.1/Aula_2.runtimeconfig.json
+/Users/crudo/Projects/Aula_2/Aula_2/bin/Debug/netcoreapp2.1/Aula_2.runtimeconfig.dev.json
+/Users/crudo/Projects/Aula_2/Aula_2/bin/Debug/netcoreapp2.1/Aula_2.dll
+/Users/crudo/Projects/Aula_2/Aula_2/bin/Debug/netcoreapp2.1/Aula_2.pdb
+/Users/crudo/Projects/Aula_2/Aula_2/obj/Debug/netcoreapp2.1/Aula_2.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Aula_2/Aula_2/obj/Debug/netcoreapp2.1/Aula_2.AssemblyInfoInputs.cache
+/Users/crudo/Projects/Aula_2/Aula_2/obj/Debug/netcoreapp2.1/Aula_2.AssemblyInfo.cs
+/Users/crudo/Projects/Aula_2/Aula_2/obj/Debug/netcoreapp2.1/Aula_2.dll
+/Users/crudo/Projects/Aula_2/Aula_2/obj/Debug/netcoreapp2.1/Aula_2.pdb
+/Users/crudo/Projects/Aula_2/Aula_2/obj/Debug/netcoreapp2.1/Aula_2.csprojResolveAssemblyReference.cache

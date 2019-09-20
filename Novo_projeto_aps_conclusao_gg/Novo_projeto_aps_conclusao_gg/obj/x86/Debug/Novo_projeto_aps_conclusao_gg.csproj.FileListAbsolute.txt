@@ -1,0 +1,6 @@
+/Users/crudo/Projects/Novo_projeto_aps_conclusao_gg/Novo_projeto_aps_conclusao_gg/bin/Debug/Novo_projeto_aps_conclusao_gg.exe
+/Users/crudo/Projects/Novo_projeto_aps_conclusao_gg/Novo_projeto_aps_conclusao_gg/bin/Debug/Novo_projeto_aps_conclusao_gg.pdb
+/Users/crudo/Projects/Novo_projeto_aps_conclusao_gg/Novo_projeto_aps_conclusao_gg/obj/x86/Debug/Novo_projeto_aps_conclusao_gg.csprojAssemblyReference.cache
+/Users/crudo/Projects/Novo_projeto_aps_conclusao_gg/Novo_projeto_aps_conclusao_gg/obj/x86/Debug/Novo_projeto_aps_conclusao_gg.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Novo_projeto_aps_conclusao_gg/Novo_projeto_aps_conclusao_gg/obj/x86/Debug/Novo_projeto_aps_conclusao_gg.exe
+/Users/crudo/Projects/Novo_projeto_aps_conclusao_gg/Novo_projeto_aps_conclusao_gg/obj/x86/Debug/Novo_projeto_aps_conclusao_gg.pdb

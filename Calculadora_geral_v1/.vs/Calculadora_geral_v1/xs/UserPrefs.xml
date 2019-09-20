@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{99EF3ED5-9037-4753-B9BB-AEBD49F22430}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculadora_geral_v1/Calculadora_soma_divisao_multiplicacao_subtracao">
+    <Files>
+      <File FileName="Calculadora_geral_v1/Calculadora_soma_divisao_multiplicacao_subtracao" Line="19" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Calculadora__geral__v1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

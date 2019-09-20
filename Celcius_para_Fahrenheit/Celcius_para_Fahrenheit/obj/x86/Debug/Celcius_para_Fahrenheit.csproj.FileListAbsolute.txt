@@ -1,0 +1,6 @@
+/Users/crudo/Projects/Celcius_para_Fahrenheit/Celcius_para_Fahrenheit/bin/Debug/Celcius_para_Fahrenheit.exe
+/Users/crudo/Projects/Celcius_para_Fahrenheit/Celcius_para_Fahrenheit/bin/Debug/Celcius_para_Fahrenheit.pdb
+/Users/crudo/Projects/Celcius_para_Fahrenheit/Celcius_para_Fahrenheit/obj/x86/Debug/Celcius_para_Fahrenheit.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Celcius_para_Fahrenheit/Celcius_para_Fahrenheit/obj/x86/Debug/Celcius_para_Fahrenheit.exe
+/Users/crudo/Projects/Celcius_para_Fahrenheit/Celcius_para_Fahrenheit/obj/x86/Debug/Celcius_para_Fahrenheit.pdb
+/Users/crudo/Projects/Celcius_para_Fahrenheit/Celcius_para_Fahrenheit/obj/x86/Debug/Celcius_para_Fahrenheit.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{95A8445E-FA60-455F-9E36-BD12520B68DD}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exemplo__2__inverso__de__tabuada PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exemplo_2_inverso_de_tabuada/Program.cs">
+    <Files>
+      <File FileName="Exemplo_2_inverso_de_tabuada/Program.cs" Line="11" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

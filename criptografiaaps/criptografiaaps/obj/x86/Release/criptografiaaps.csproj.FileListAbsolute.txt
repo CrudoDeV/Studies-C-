@@ -1,0 +1,4 @@
+/Users/crudo/Projects/criptografiaaps/criptografiaaps/bin/Release/criptografiaaps.exe
+/Users/crudo/Projects/criptografiaaps/criptografiaaps/obj/x86/Release/criptografiaaps.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/criptografiaaps/criptografiaaps/obj/x86/Release/criptografiaaps.exe
+/Users/crudo/Projects/criptografiaaps/criptografiaaps/obj/x86/Release/criptografiaaps.csprojAssemblyReference.cache

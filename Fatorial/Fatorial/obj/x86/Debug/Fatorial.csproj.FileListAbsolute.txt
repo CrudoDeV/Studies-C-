@@ -1,0 +1,6 @@
+/Users/crudo/Projects/Fatorial/Fatorial/bin/Debug/Fatorial.exe
+/Users/crudo/Projects/Fatorial/Fatorial/bin/Debug/Fatorial.pdb
+/Users/crudo/Projects/Fatorial/Fatorial/obj/x86/Debug/Fatorial.csprojAssemblyReference.cache
+/Users/crudo/Projects/Fatorial/Fatorial/obj/x86/Debug/Fatorial.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Fatorial/Fatorial/obj/x86/Debug/Fatorial.exe
+/Users/crudo/Projects/Fatorial/Fatorial/obj/x86/Debug/Fatorial.pdb

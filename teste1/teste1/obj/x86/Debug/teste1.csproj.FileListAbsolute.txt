@@ -1,0 +1,6 @@
+/Users/crudo/Projects/teste1/teste1/bin/Debug/teste1.exe
+/Users/crudo/Projects/teste1/teste1/bin/Debug/teste1.pdb
+/Users/crudo/Projects/teste1/teste1/obj/x86/Debug/teste1.csprojAssemblyReference.cache
+/Users/crudo/Projects/teste1/teste1/obj/x86/Debug/teste1.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/teste1/teste1/obj/x86/Debug/teste1.exe
+/Users/crudo/Projects/teste1/teste1/obj/x86/Debug/teste1.pdb

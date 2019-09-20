@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{05EEE49B-52B7-4091-8EE9-156801A987B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Conversor__de__moedas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Conversor_de_moedas/Program.cs">
+    <Files>
+      <File FileName="Conversor_de_moedas/Program.cs" Line="24" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

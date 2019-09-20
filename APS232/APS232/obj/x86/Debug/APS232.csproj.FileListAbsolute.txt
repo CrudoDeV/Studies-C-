@@ -1,0 +1,2 @@
+/Users/crudo/Projects/APS232/APS232/obj/x86/Debug/APS232.csprojAssemblyReference.cache
+/Users/crudo/Projects/APS232/APS232/obj/x86/Debug/APS232.csproj.CoreCompileInputs.cache

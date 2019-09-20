@@ -1,0 +1,3 @@
+/Users/crudo/Projects/Notas_unip/Notas_unip/bin/Release/Notas_unip.exe
+/Users/crudo/Projects/Notas_unip/Notas_unip/obj/x86/Release/Notas_unip.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Notas_unip/Notas_unip/obj/x86/Release/Notas_unip.exe

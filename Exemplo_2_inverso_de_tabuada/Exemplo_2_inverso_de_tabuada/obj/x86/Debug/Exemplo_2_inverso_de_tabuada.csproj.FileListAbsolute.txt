@@ -1,0 +1,6 @@
+/Users/crudo/Projects/Exemplo_2_inverso_de_tabuada/Exemplo_2_inverso_de_tabuada/bin/Debug/Exemplo_2_inverso_de_tabuada.exe
+/Users/crudo/Projects/Exemplo_2_inverso_de_tabuada/Exemplo_2_inverso_de_tabuada/bin/Debug/Exemplo_2_inverso_de_tabuada.pdb
+/Users/crudo/Projects/Exemplo_2_inverso_de_tabuada/Exemplo_2_inverso_de_tabuada/obj/x86/Debug/Exemplo_2_inverso_de_tabuada.csprojAssemblyReference.cache
+/Users/crudo/Projects/Exemplo_2_inverso_de_tabuada/Exemplo_2_inverso_de_tabuada/obj/x86/Debug/Exemplo_2_inverso_de_tabuada.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Exemplo_2_inverso_de_tabuada/Exemplo_2_inverso_de_tabuada/obj/x86/Debug/Exemplo_2_inverso_de_tabuada.exe
+/Users/crudo/Projects/Exemplo_2_inverso_de_tabuada/Exemplo_2_inverso_de_tabuada/obj/x86/Debug/Exemplo_2_inverso_de_tabuada.pdb

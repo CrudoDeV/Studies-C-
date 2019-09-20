@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0D9B9CC7-5DAB-4463-B6A6-8DD9C41BE816}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calcular_quadrado_de_um_numero/Program.cs">
+    <Files>
+      <File FileName="Calcular_quadrado_de_um_numero/Program.cs" Line="1" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Calcular__quadrado__de__um__numero PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

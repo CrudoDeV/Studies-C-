@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{87FFF2DA-3CC5-48B4-85C7-A1109025ED34}|Default">
+  <MonoDevelop.Ide.ItemProperties.notas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="notas/Program.cs">
+    <Files>
+      <File FileName="notas/Program.cs" Line="18" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

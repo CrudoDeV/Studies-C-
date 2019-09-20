@@ -1,0 +1,6 @@
+/Users/crudo/Projects/Ola_Mundo/Ola_Mundo/bin/Debug/Ola_Mundo.exe
+/Users/crudo/Projects/Ola_Mundo/Ola_Mundo/bin/Debug/Ola_Mundo.pdb
+/Users/crudo/Projects/Ola_Mundo/Ola_Mundo/obj/x86/Debug/Ola_Mundo.csprojResolveAssemblyReference.cache
+/Users/crudo/Projects/Ola_Mundo/Ola_Mundo/obj/x86/Debug/Ola_Mundo.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Ola_Mundo/Ola_Mundo/obj/x86/Debug/Ola_Mundo.exe
+/Users/crudo/Projects/Ola_Mundo/Ola_Mundo/obj/x86/Debug/Ola_Mundo.pdb

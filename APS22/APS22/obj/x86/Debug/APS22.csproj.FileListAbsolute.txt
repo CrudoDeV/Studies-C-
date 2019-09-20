@@ -1,0 +1,6 @@
+/Users/crudo/Projects/APS22/APS22/bin/Debug/APS22.exe
+/Users/crudo/Projects/APS22/APS22/bin/Debug/APS22.pdb
+/Users/crudo/Projects/APS22/APS22/obj/x86/Debug/APS22.csprojAssemblyReference.cache
+/Users/crudo/Projects/APS22/APS22/obj/x86/Debug/APS22.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/APS22/APS22/obj/x86/Debug/APS22.exe
+/Users/crudo/Projects/APS22/APS22/obj/x86/Debug/APS22.pdb

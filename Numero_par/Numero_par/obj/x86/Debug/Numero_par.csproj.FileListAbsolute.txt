@@ -1,0 +1,6 @@
+/Users/crudo/Projects/Numero_par/Numero_par/obj/x86/Debug/Numero_par.csprojAssemblyReference.cache
+/Users/crudo/Projects/Numero_par/Numero_par/obj/x86/Debug/Numero_par.csproj.CoreCompileInputs.cache
+/Users/crudo/Projects/Numero_par/Numero_par/bin/Debug/Numero_par.exe
+/Users/crudo/Projects/Numero_par/Numero_par/bin/Debug/Numero_par.pdb
+/Users/crudo/Projects/Numero_par/Numero_par/obj/x86/Debug/Numero_par.exe
+/Users/crudo/Projects/Numero_par/Numero_par/obj/x86/Debug/Numero_par.pdb

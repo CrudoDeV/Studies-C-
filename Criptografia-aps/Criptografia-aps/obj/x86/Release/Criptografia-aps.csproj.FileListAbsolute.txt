@@ -1,0 +1,1 @@
+/Users/crudo/Projects/Criptografia-aps/Criptografia-aps/obj/x86/Release/Criptografia-aps.csproj.CoreCompileInputs.cache
